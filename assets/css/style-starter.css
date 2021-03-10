@@ -10519,7 +10519,7 @@ h4.sub-title {
   .w3l-feature-3 span.number img {
     vertical-align: -webkit-baseline-middle; }
   .w3l-feature-3 .top-bottom {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2020%2F08%2Fexploratory-data-analysiseda-from-scratch-in-python%2F&psig=AOvVaw0uJ8CaaCCmit4Hh1E2qWIe&ust=1615457726552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjMuaC_pe8CFQAAAAAdAAAAABAD") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -12098,7 +12098,7 @@ body:after {
 
 .w3l-about-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/2.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2020%2F08%2Fexploratory-data-analysiseda-from-scratch-in-python%2F&psig=AOvVaw0uJ8CaaCCmit4Hh1E2qWIe&ust=1615457726552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjMuaC_pe8CFQAAAAAdAAAAABAD");
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   padding-top: 86px; }
